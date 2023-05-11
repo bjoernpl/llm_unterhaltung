@@ -1,0 +1,10 @@
+openai
+numpy
+loguru
+librosa
+soundfile
+gradio
+faster_whisper
+TTS
+# transformers
+# torch
